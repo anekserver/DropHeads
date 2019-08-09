@@ -37,7 +37,7 @@ update-plugin: true
 # If "must-use-axe" is enabled, this list will be ignored
 # If empty, no special weapon/tool will be required to get heads
 must-use:
-#  - IRON_SWORD
+#  - DIAMOND_SWORD
 #  - DIAMOND_AXE
 #  - WOOD_HOE
 
@@ -48,6 +48,6 @@ specific-tool-modifiers:
   DIAMOND_AXE: 1
   IRON_AXE: 0.8
   STONE_AXE: 0.5
-  DIAMOND_SWORD: 0.2
+  DIAMOND_SWORD: 2
   IRON_SWORD: 0.1
   SHEARS: 0.05
