@@ -37,7 +37,7 @@ update-plugin: true
 # If "must-use-axe" is enabled, this list will be ignored
 # If empty, no special weapon/tool will be required to get heads
 must-use:
-#  - IRON_SWORD
+#  - DIAMOND_SWORD
 #  - DIAMOND_AXE
 #  - WOOD_HOE
 
